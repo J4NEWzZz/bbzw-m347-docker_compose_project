@@ -40,7 +40,7 @@ Im Fokus dieser Woche stehen:
 * Frontend als zusätzlichen Service integrieren
 
 Die Dockerfiles sind vollständig und funktionsfähig.  
-Eine Compose-Konfiguration ist bereits vorhanden, jedoch **noch nicht vollständig korrekt**.
+Eine Compose-Konfiguration ist bereits vorhanden, jedoch **leer**.
 
 ---
 
@@ -51,7 +51,7 @@ Am Ende sollte:
 * das System mit **einem Befehl startbar** sein
 * API, Datenbank, Frontend und Adminer zusammenarbeiten
 * Daten nach einem Neustart erhalten bleiben
-* folgende Artefakte vorhanden sein:
+* folgende Dokumentation vorhanden sein:
 
 ```
 docs/
@@ -72,9 +72,9 @@ cp -rf ticketboard ~/bbzw/bbzw-m347-<klasse>_<nachname>_<vorname>/pw02/02_projec
 
 ---
 
-### 1. Compose-Datei erstellen
+### 1. Compose-Datei öffnen
 
-Erstellen Sie eine Datei:
+Öffnen Sie die Datei:
 
 ```bash
 compose.yaml

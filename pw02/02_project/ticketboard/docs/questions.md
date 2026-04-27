@@ -21,7 +21,7 @@ Antwort:
 
 ## 2. Service-Kommunikation
 
-Welchen Host verwendet die API, um die Datenbank zu erreichen?
+Welchen Servicenamen verwendet die API, um die Datenbank zu erreichen?
 
 Antwort:
 
@@ -83,8 +83,6 @@ Antwort:
 ## 5. Compose-Konfiguration
 
 Welche Elemente haben Sie in Ihrer `compose.yaml` definiert?
-
-(z. B. services, ports, environment, volumes)
 
 Antwort:
 

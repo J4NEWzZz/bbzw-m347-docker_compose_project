@@ -24,7 +24,7 @@ Antwort:
 
 ## 2. Service-Kommunikation
 
-Welchen Host verwendet die API, um die Datenbank zu erreichen?
+Welchen Servicenamen verwendet die API, um die Datenbank zu erreichen?
 
 Antwort:
 Den Servicenamen der Datenbank, z. B. `db`
@@ -100,8 +100,6 @@ Damit Daten unabhängig vom Container gespeichert werden und nach einem Neustart
 ## 5. Compose-Konfiguration
 
 Welche Elemente haben Sie in Ihrer `compose.yaml` definiert?
-
-(z. B. services, ports, environment, volumes)
 
 Antwort:
 services, ports, environment, volumes, depends_on
